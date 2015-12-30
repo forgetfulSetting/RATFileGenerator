@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RATFileGenerator", "RATFileGenerator.csproj", "{8C02168F-6DC9-411B-8EAA-4CFF36E1F425}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://gbibc-asv17:8080/tfs/ipsltfs
+		SccProjectUniqueName0 = RATFileGenerator.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://gbibc-asv17:8080/tfs/ipsltfs
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C02168F-6DC9-411B-8EAA-4CFF36E1F425}.Debug|x86.ActiveCfg = Debug|x86
+		{8C02168F-6DC9-411B-8EAA-4CFF36E1F425}.Debug|x86.Build.0 = Debug|x86
+		{8C02168F-6DC9-411B-8EAA-4CFF36E1F425}.Release|x86.ActiveCfg = Release|x86
+		{8C02168F-6DC9-411B-8EAA-4CFF36E1F425}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

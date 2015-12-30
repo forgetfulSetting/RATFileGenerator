@@ -1,0 +1,15 @@
+C:\Users\Wrightli\Desktop\RATFileGenerator\bin\Debug\RAT File Generator.exe.manifest
+C:\Users\Wrightli\Desktop\RATFileGenerator\bin\Debug\RAT File Generator.application
+C:\Users\Wrightli\Desktop\RATFileGenerator\bin\Debug\RAT File Generator.exe
+C:\Users\Wrightli\Desktop\RATFileGenerator\bin\Debug\RAT File Generator.pdb
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\MainWindow.baml
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\App.g.cs
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator_MarkupCompile.cache
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator.g.resources
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RATFileGenerator.Properties.Resources.resources
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RATFileGenerator.csproj.GenerateResource.Cache
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator.exe.manifest
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator.application
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator.exe
+C:\Users\Wrightli\Desktop\RATFileGenerator\obj\x86\Debug\RAT File Generator.pdb

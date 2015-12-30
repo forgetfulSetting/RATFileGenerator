@@ -1,0 +1,18 @@
+﻿<Window x:Class="RATFileGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RAT File Generator" Height="225" Width="492" ResizeMode="NoResize" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" Icon="/RAT%20File%20Generator;component/Icon.ico">
+    <Grid>
+        <Label Name="lblHeading" Content="RAT File Generator" Height="28" HorizontalAlignment="Left" Margin="172,6,0,0" VerticalAlignment="Top" FontSize="12" FontWeight="Bold" />
+        <Label Name="lblPrevVer" Content="Previous Version" Height="28" HorizontalAlignment="Left" Margin="11,40,0,0" VerticalAlignment="Top" />
+        <TextBox Name="txtPrevVer" Height="23" HorizontalAlignment="Left" Margin="112,42,0,0" VerticalAlignment="Top" Width="295" IsReadOnly="False" AutoWordSelection="False" />
+        <Label Name="lblCurrVer" Content="Current Version" Height="28" HorizontalAlignment="Left" Margin="16,72,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtCurrVer" Height="23" HorizontalAlignment="Left" Margin="112,74,0,0" VerticalAlignment="Top" Width="295" IsReadOnly="False" TextChanged="txtCurrVer_TextChanged" />
+        <Label Name="lblRATFile" Content="RAT File" Height="28" HorizontalAlignment="Left" Margin="57,106,0,0" VerticalAlignment="Top" />
+        <TextBox Name="txtRATFile" Height="23" HorizontalAlignment="Left" Margin="112,108,0,0" VerticalAlignment="Top" Width="339" IsReadOnly="True" />
+        <Button Name="btnPrevBrowse" Content="..." Height="23" HorizontalAlignment="Left" Margin="415,41,0,0" VerticalAlignment="Top" Width="36"  Click="btnPrevBrowse_Click" />
+        <Button Name="btnCurrBrowse" Content="..." Height="23" HorizontalAlignment="Left" Margin="415,74,0,0" VerticalAlignment="Top" Width="36" Click="btnCurrBrowse_Click" />
+        <Button Name="btnGenerate" Content="Generate" Height="23" HorizontalAlignment="Left" Margin="147,145,0,0" VerticalAlignment="Top" Width="75" Click="btnGenerate_Click" />
+        <Button Name="btnClose" Content="Close" Height="23" HorizontalAlignment="Left" Margin="244,145,0,0" VerticalAlignment="Top" Width="75" Click="btnClose_Click" />
+    </Grid>
+</Window>
